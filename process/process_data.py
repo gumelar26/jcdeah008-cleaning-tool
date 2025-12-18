@@ -3,6 +3,9 @@ def process_data():
 
 def process_csv():
     pass
-
+ 
+def process_json():
+    pass
+  
 def process_log():
     pass
